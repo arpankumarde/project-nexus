@@ -1,0 +1,13 @@
+{
+  "name": "project-nexus",
+  "version": "1.0.0",
+  "description": "A platform that acts as a nexus between students from various universities and colleges to share their project works and ideas.",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "server": "cd server && nodemon"
+  },
+  "author": "https://github.com/arpankumarde",
+  "license": "ISC"
+}
